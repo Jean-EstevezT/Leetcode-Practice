@@ -8,4 +8,4 @@
 **Array**
         Problems         |  Solution  
 ------------------------ |  --------  
-[Running Sum of 1d Array](https://leetcode.com/problems/running-sum-of-1d-array/)   | [Javascript solution](array/javascript/Running_Sum_of_1d_Array.js)
+[Running Sum of 1d Array](https://leetcode.com/problems/running-sum-of-1d-array/)   | [Javascript solution](Array/javascript/Running_Sum_of_1d_Array.js)
