@@ -13,3 +13,4 @@
 [Richest Customer Wealth](https://leetcode.com/problems/richest-customer-wealth/)   | [Python solution](Array/python/Richest_Customer_Wealth.py)
 [Shuffle the Array](https://leetcode.com/problems/shuffle-the-array/)   | [Python solution](Array/python/Shuffle_the_Array.py)
 [Number of Good Pairs](https://leetcode.com/problems/number-of-good-pairs/)   | [Javascript solution](Array/javascript/Number_of_Good_Pairs.js)
+[How Many Numbers Are Smaller Than the Current Number](https://leetcode.com/problems/how-many-numbers-are-smaller-than-the-current-number/)   | [Javascript solution](Array/javascript/HowManyNumbersAreSmallerThantheCurrentNumber.js)
