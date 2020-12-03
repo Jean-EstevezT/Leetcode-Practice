@@ -15,3 +15,4 @@
 [Number of Good Pairs](https://leetcode.com/problems/number-of-good-pairs/)   | [Javascript solution](Array/javascript/Number_of_Good_Pairs.js)
 [How Many Numbers Are Smaller Than the Current Number](https://leetcode.com/problems/how-many-numbers-are-smaller-than-the-current-number/)   | [Javascript solution](Array/javascript/HowManyNumbersAreSmallerThantheCurrentNumber.js)
 [Decompress Run-Length Encoded List](https://leetcode.com/problems/decompress-run-length-encoded-list/)   | [Javascript solution](Array/javascript/DecompressRun-LengthEncodedList.js)
+[Create Target Array in the Given Order](https://leetcode.com/problems/create-target-array-in-the-given-order/)   | [Python solution](Array/python/Create_Target_Array_in_the_Given_Order.py)
