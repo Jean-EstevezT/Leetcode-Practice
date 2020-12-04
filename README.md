@@ -16,4 +16,10 @@
 [How Many Numbers Are Smaller Than the Current Number](https://leetcode.com/problems/how-many-numbers-are-smaller-than-the-current-number/)   | [Javascript solution](Array/javascript/HowManyNumbersAreSmallerThantheCurrentNumber.js)
 [Decompress Run-Length Encoded List](https://leetcode.com/problems/decompress-run-length-encoded-list/)   | [Javascript solution](Array/javascript/DecompressRun-LengthEncodedList.js)
 [Create Target Array in the Given Order](https://leetcode.com/problems/create-target-array-in-the-given-order/)   | [Python solution](Array/python/Create_Target_Array_in_the_Given_Order.py)
-[XOR Operation in an Array](https://leetcode.com/problems/xor-operation-in-an-array/)   | [Javascript solution](Array/javascript/XOR_Operation_in_an_Array.js)
+[XOR Operation in an Array](https://leetcode.com/problems/xor-operation-in-an-array/)   | [Javascript solution](Array/javascript/XOR_Operation_in_an_Array.js
+
+
+**Linked List**
+        Problems         |  Solution  
+------------------------ |  --------  
+[Convert Binary Number in a Linked List to Integer](https://leetcode.com/problems/convert-binary-number-in-a-linked-list-to-integer/)   | [Python solution](LinkedList/python/BinaryNumberInaLinkedListtoInteger.py)
