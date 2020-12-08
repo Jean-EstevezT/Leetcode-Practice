@@ -18,9 +18,11 @@
 [Create Target Array in the Given Order](https://leetcode.com/problems/create-target-array-in-the-given-order/)   | [Python solution](Array/python/Create_Target_Array_in_the_Given_Order.py)
 [XOR Operation in an Array](https://leetcode.com/problems/xor-operation-in-an-array/)   | [Javascript solution](Array/javascript/XOR_Operation_in_an_Array.js)
 [Sum of All Odd Length Subarrays](https://leetcode.com/problems/sum-of-all-odd-length-subarrays/)   | [Python solution](Array/python/Sum_of_All_Odd_Length_Subarrays.py)
+[Count Good Triplets](https://leetcode.com/problems/count-good-triplets/)   | [Javascript solution](Array/javascript/Count_Good_Triplets.js)
 
 
 **Linked List**
         Problems         |  Solution  
 ------------------------ |  --------  
 [Convert Binary Number in a Linked List to Integer](https://leetcode.com/problems/convert-binary-number-in-a-linked-list-to-integer/)   | [Python solution](LinkedList/python/BinaryNumberInaLinkedListtoInteger.py)
+[Delete Node in a Linked List](https://leetcode.com/problems/delete-node-in-a-linked-list/)   | [Python solution](LinkedList/python/delete-node-in-a-linked-list.py)
