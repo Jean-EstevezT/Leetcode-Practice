@@ -18,7 +18,7 @@
 [Create Target Array in the Given Order](https://leetcode.com/problems/create-target-array-in-the-given-order/)   | [Python solution](Array/python/Create_Target_Array_in_the_Given_Order.py)
 [XOR Operation in an Array](https://leetcode.com/problems/xor-operation-in-an-array/)   | [Javascript solution](Array/javascript/XOR_Operation_in_an_Array.js)
 [Sum of All Odd Length Subarrays](https://leetcode.com/problems/sum-of-all-odd-length-subarrays/)   | [Python solution](Array/python/Sum_of_All_Odd_Length_Subarrays.py)
-[Count Good Triplets](https://leetcode.com/problems/count-good-triplets/)   | [Javascript solution](Array/javascript/Count_Good_Triplets.js)
+[Find Numbers with Even Number of Digits](https://leetcode.com/problems/find-numbers-with-even-number-of-digits/)   | [Python solution](Array/python/find-numbers-with-even-number-of-digits.py)
 
 
 **Linked List**
