@@ -26,3 +26,9 @@
 ------------------------ |  --------  
 [Convert Binary Number in a Linked List to Integer](https://leetcode.com/problems/convert-binary-number-in-a-linked-list-to-integer/)   | [Python solution](LinkedList/python/BinaryNumberInaLinkedListtoInteger.py)
 [Delete Node in a Linked List](https://leetcode.com/problems/delete-node-in-a-linked-list/)   | [Python solution](LinkedList/python/delete-node-in-a-linked-list.py)
+
+
+**🔥 Top 100 Liked Questions**
+        Problems         |  Solution  |    Type
+------------------------ |  --------  |  --------  
+[Majority Element](https://leetcode.com/problems/majority-element/)   | [Python solution](Array/python/Majority_Element.py)  |  Array
