@@ -21,6 +21,7 @@
 [Find Numbers with Even Number of Digits](https://leetcode.com/problems/find-numbers-with-even-number-of-digits/)   | [Python solution](Array/python/find-numbers-with-even-number-of-digits.py)
 [Maximum Product of Two Elements in an Array](https://leetcode.com/problems/maximum-product-of-two-elements-in-an-array/)   | [Javascript solution](Array/javascript/maximum-product-of-two-elements-in-an-array.js)
 [Count Negative Numbers in a Sorted Matrix](https://leetcode.com/problems/count-negative-numbers-in-a-sorted-matrix/)   | [Python solution](Array/python/count-negative-numbers-in-a-sorted-matrix.py)
+[Matrix Diagonal Sum](https://leetcode.com/problems/matrix-diagonal-sum/)   | [Javascript solution](Array/javascript/matrix-diagonal-sum.js)
 
 
 **Linked List**

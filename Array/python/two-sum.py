@@ -8,7 +8,7 @@ submission: https://leetcode.com/submissions/detail/432056558/
 from typing import List
 
 # --------------------------------------------------
-# Solution:
+Solution:
 class Solution:
     def twoSum(self, nums: List[int], target: int) -> List[int]:
         for i in range(len(nums) - 1):
@@ -16,4 +16,7 @@ class Solution:
                 d = nums[i] + nums[j]
                 if d == target:
                     return [i, j]
+
+
+
 
