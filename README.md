@@ -30,6 +30,11 @@
 [Convert Binary Number in a Linked List to Integer](https://leetcode.com/problems/convert-binary-number-in-a-linked-list-to-integer/)   | [Python solution](LinkedList/python/BinaryNumberInaLinkedListtoInteger.py)
 [Delete Node in a Linked List](https://leetcode.com/problems/delete-node-in-a-linked-list/)   | [Python solution](LinkedList/python/delete-node-in-a-linked-list.py)
 
+**Math**
+        Problems         |  Solution  
+------------------------ |  --------  
+[Subtract the Product and Sum of Digits of an Integer](https://leetcode.com/problems/subtract-the-product-and-sum-of-digits-of-an-integer/)   | [Python solution](Math/python/subtract-the-product-and-sum-of-digits-of-an-integer.py)
+
 
 **🔥 Top 100 Liked Questions**
         Problems         |  Solution  |    Type
