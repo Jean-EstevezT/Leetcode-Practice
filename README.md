@@ -35,6 +35,11 @@
 ------------------------ |  --------  
 [Subtract the Product and Sum of Digits of an Integer](https://leetcode.com/problems/subtract-the-product-and-sum-of-digits-of-an-integer/)   | [Python solution](Math/python/subtract-the-product-and-sum-of-digits-of-an-integer.py)
 
+**String**
+        Problems         |  Solution  
+------------------------ |  --------  
+[Defanging an IP Address](https://leetcode.com/problems/defanging-an-ip-address/)   | [Python solution](String/python/defanging-an-ip-address.py)
+
 
 **🔥 Top 100 Liked Questions**
         Problems         |  Solution  |    Type
