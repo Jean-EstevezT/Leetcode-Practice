@@ -47,3 +47,4 @@
 [Majority Element](https://leetcode.com/problems/majority-element/)   | [Python solution](Array/python/Majority_Element.py)  |  Array
 [Move Zeroes](https://leetcode.com/problems/move-zeroes/)   | [Javascript solution](Array/javascript/move-zeroes.js)  |  Array
 [Two Sum](https://leetcode.com/problems/two-sum/)   | [Python solution](Array/python/two-sum.py)  |  Array
+[Maximum Subarray](https://leetcode.com/problems/two-sum/)   | [Python solution](Array/python/maximum-subarray.py)  |  Array
