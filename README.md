@@ -39,6 +39,7 @@
         Problems         |  Solution  
 ------------------------ |  --------  
 [Defanging an IP Address](https://leetcode.com/problems/defanging-an-ip-address/)   | [Python solution](String/python/defanging-an-ip-address.py)
+[Goal Parser Interpretation](https://leetcode.com/problems/goal-parser-interpretation/)   | [Python solution](String/python/goal-parser-interpretation.py)
 
 
 **🔥 Top 100 Liked Questions**
