@@ -40,6 +40,7 @@
 ------------------------ |  --------  
 [Defanging an IP Address](https://leetcode.com/problems/defanging-an-ip-address/)   | [Python solution](String/python/defanging-an-ip-address.py)
 [Goal Parser Interpretation](https://leetcode.com/problems/goal-parser-interpretation/)   | [Python solution](String/python/goal-parser-interpretation.py)
+[Count the Number of Consistent Strings](https://leetcode.com/problems/defanging-an-ip-address/)   | [Python solution](String/python/count-the-number-of-consistent-strings.py)
 
 
 **🔥 Top 100 Liked Questions**
