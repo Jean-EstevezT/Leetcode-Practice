@@ -35,6 +35,7 @@
         Problems         |  Solution  
 ------------------------ |  --------  
 [Subtract the Product and Sum of Digits of an Integer](https://leetcode.com/problems/subtract-the-product-and-sum-of-digits-of-an-integer/)   | [Python solution](Math/python/subtract-the-product-and-sum-of-digits-of-an-integer.py)
+[Maximum 69 Number](https://leetcode.com/problems/maximum-69-number/)   | [Python solution](Math/python/maximum-69-number.py)
 
 **String**
         Problems         |  Solution  
