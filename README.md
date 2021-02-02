@@ -37,6 +37,7 @@
 [Subtract the Product and Sum of Digits of an Integer](https://leetcode.com/problems/subtract-the-product-and-sum-of-digits-of-an-integer/)   | [Python solution](Math/python/subtract-the-product-and-sum-of-digits-of-an-integer.py)
 [Maximum 69 Number](https://leetcode.com/problems/maximum-69-number/)   | [Python solution](Math/python/maximum-69-number.py)
 [Calculate Money in Leetcode Bank](https://leetcode.com/problems/calculate-money-in-leetcode-bank/)   | [Python solution](Math/python/calculate-money-in-leetcode-bank.py)
+[Count Odd Numbers in an Interval Range](https://leetcode.com/problems/count-odd-numbers-in-an-interval-range/)   | [Javascript solution](Math/javascript/count-odd-numbers-in-an-interval-range.js)
 
 **String**
         Problems         |  Solution  
@@ -44,6 +45,7 @@
 [Defanging an IP Address](https://leetcode.com/problems/defanging-an-ip-address/)   | [Python solution](String/python/defanging-an-ip-address.py)
 [Goal Parser Interpretation](https://leetcode.com/problems/goal-parser-interpretation/)   | [Python solution](String/python/goal-parser-interpretation.py)
 [Count the Number of Consistent Strings](https://leetcode.com/problems/defanging-an-ip-address/)   | [Python solution](String/python/count-the-number-of-consistent-strings.py)
+[Check If a Word Occurs As a Prefix of Any Word in a Sentences](https://leetcode.com/problems/check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence/)   | [Python solution](String/python/check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence.py)
 
 
 **🔥 Top 100 Liked Questions**
