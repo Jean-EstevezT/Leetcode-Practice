@@ -58,3 +58,4 @@
 [Move Zeroes](https://leetcode.com/problems/move-zeroes/)   | [Javascript solution](Array/javascript/move-zeroes.js)  |  Array
 [Two Sum](https://leetcode.com/problems/two-sum/)   | [Python solution](Array/python/two-sum.py)  |  Array
 [Maximum Subarray](https://leetcode.com/problems/two-sum/)   | [Python solution](Array/python/maximum-subarray.py)  |  Array
+[Find the Duplicate Number](https://leetcode.com/problems/find-the-duplicate-number/)   | [Javascript solution](Array/javascript/find-the-duplicate-number.js)  |  Array
