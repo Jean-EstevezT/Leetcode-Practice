@@ -1,7 +1,7 @@
 """
 Title     : 1732. Find the Highest Altitude
 Category  : Array
-URL       : https://leetcode.com/problems/maximum-subarray/
+URL       : https://leetcode.com/problems/find-the-highest-altitude/
 submission: https://leetcode.com/submissions/detail/448236176/
 """
 
