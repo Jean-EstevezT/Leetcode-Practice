@@ -52,6 +52,7 @@
 [Reverse Words in a String III](https://leetcode.com/problems/reverse-words-in-a-string-iii/)   | [Javascript solution](String/javascript/reverse-words-in-a-string-iii.js)
 [Reverse String](https://leetcode.com/problems/reverse-string/)   | [Python solution](String/python/reverse-string.py)
 [Shuffle String](https://leetcode.com/problems/shuffle-string/)   | [Python solution](String/python/shuffle-string.py)
+[Valid Anagram](https://leetcode.com/problems/valid-anagram/)   | [Javascript solution](String/javascript/valid-anagram.js)
 
 
 **🔥 Top 100 Liked Questions**
