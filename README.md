@@ -25,6 +25,7 @@
 [Find the Highest Altitude](https://leetcode.com/problems/find-the-highest-altitude/)   | [Python solution](Array/python/find-the-highest-altitude.py)
 [Relative Sort Array](https://leetcode.com/problems/maximum-subarray/)   | [Python solution](Array/python/relative-sort-array.py)
 [Sort Colors](https://leetcode.com/problems/sort-colors)   | [Javascript solution](Array/javascript/sort-colors.js)
+[Sort Array by Increasing Frequency](https://leetcode.com/problems/sort-array-by-increasing-frequency/)   | [Python solution](Array/python/sort-array-by-increasing-frequency.py)
 
 
 **Linked List**
