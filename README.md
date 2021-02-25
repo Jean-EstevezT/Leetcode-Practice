@@ -54,6 +54,8 @@
 [Reverse String](https://leetcode.com/problems/reverse-string/)   | [Python solution](String/python/reverse-string.py)
 [Shuffle String](https://leetcode.com/problems/shuffle-string/)   | [Python solution](String/python/shuffle-string.py)
 [Valid Anagram](https://leetcode.com/problems/valid-anagram/)   | [Javascript solution](String/javascript/valid-anagram.js)
+[Reverse Only Letters](https://leetcode.com/problems/reverse-only-letters/)   | [Javascript solution](String/javascript/reverse-only-letters.js)
+[Split a String in Balanced Strings](https://leetcode.com/problems/split-a-string-in-balanced-strings/)   | [Python solution](String/python/split-a-string-in-balanced-strings.py)
 
 
 **🔥 Top 100 Liked Questions**
