@@ -2,7 +2,7 @@
 Title     : 917. Reverse Only Letters
 Category  : String
 URL       : https://leetcode.com/problems/reverse-only-letters/
-submission: https://leetcode.com/submissions/detail/452190168/
+submission: https://leetcode.com/submissions/detail/460744850/
 */
 
 
@@ -12,21 +12,16 @@ submission: https://leetcode.com/submissions/detail/452190168/
  * @return {string}
  */
 let reverseOnlyLetters = function (S) {
-  let ar = S.split('')
-  let re = /[a-z]/i;
-
-  for (let i = S.length - 1, j = 0; i > 0; i--, j++) {
-    if (S[i].match(re)) {
-      if (ar[j].match(re)) {
-        ar[j] = S[i]
-      }
+  let letters = S.match(/[a-z]/ig);
+  let res = "";
+  for (let i of S) {
+    if (i.toLowerCase() != i.toUpperCase()) {
+      res += letters.pop();
+      continue;
     }
+    res += i;
   }
-
-  return ar.join('')
+  return res;
 };
 
-console.log(reverseOnlyLetters("ab-cd"))
-console.log(reverseOnlyLetters("a-bC-dEf-ghIj"))
-console.log(reverseOnlyLetters("Test1ng-Leet=code-Q!"))
 
