@@ -41,6 +41,7 @@
 [Maximum 69 Number](https://leetcode.com/problems/maximum-69-number/)   | [Python solution](Math/python/maximum-69-number.py)
 [Calculate Money in Leetcode Bank](https://leetcode.com/problems/calculate-money-in-leetcode-bank/)   | [Python solution](Math/python/calculate-money-in-leetcode-bank.py)
 [Count Odd Numbers in an Interval Range](https://leetcode.com/problems/count-odd-numbers-in-an-interval-range/)   | [Javascript solution](Math/javascript/count-odd-numbers-in-an-interval-range.js)
+[Self Dividing Numbers](https://leetcode.com/problems/self-dividing-numbers/)   | [Python solution](Math/python/self-dividing-numbers.py)
 
 **String**
         Problems         |  Solution  
