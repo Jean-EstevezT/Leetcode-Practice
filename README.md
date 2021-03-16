@@ -59,6 +59,7 @@
 [Split a String in Balanced Strings](https://leetcode.com/problems/split-a-string-in-balanced-strings/)   | [Python solution](String/python/split-a-string-in-balanced-strings.py)
 [Consecutive Characters](https://leetcode.com/problems/consecutive-characters/)   | [Python solution](String/python/consecutive-characters.py)
 [To lower case](https://leetcode.com/problems/to-lower-case/)   | [Python solution](String/python/to-lower-case.py)
+[Detect Capital](https://leetcode.com/problems/detect-capital/)   | [Javascript solution](String/javascript/detect-capital.js)
 
 
 **🔥 Top 100 Liked Questions**
