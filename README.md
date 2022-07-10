@@ -43,6 +43,7 @@
 [Calculate Money in Leetcode Bank](https://leetcode.com/problems/calculate-money-in-leetcode-bank/)   | [Python solution](Math/python/calculate-money-in-leetcode-bank.py)
 [Count Odd Numbers in an Interval Range](https://leetcode.com/problems/count-odd-numbers-in-an-interval-range/)   | [Javascript solution](Math/javascript/count-odd-numbers-in-an-interval-range.js)
 [Self Dividing Numbers](https://leetcode.com/problems/self-dividing-numbers/)   | [Python solution](Math/python/self-dividing-numbers.py)
+[Palindrome Number](https://leetcode.com/problems/palindrome-number/)   | [Javascript solution](Math/javascript/palindrome-number.js)
 
 **String**
         Problems         |  Solution  
