@@ -62,6 +62,7 @@
 [Consecutive Characters](https://leetcode.com/problems/consecutive-characters/)   | [Python solution](String/python/consecutive-characters.py)
 [To lower case](https://leetcode.com/problems/to-lower-case/)   | [Python solution](String/python/to-lower-case.py)
 [Detect Capital](https://leetcode.com/problems/detect-capital/)   | [Javascript solution](String/javascript/detect-capital.js)
+[Delete Characters to Make Fancy String](https://leetcode.com/problems/delete-characters-to-make-fancy-string/)   | [Python solution](String/python/delete-characters-to-make-fancy-string.py)
 
 
 **🔥 Top 100 Liked Questions**
