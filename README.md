@@ -73,3 +73,10 @@
 [Two Sum](https://leetcode.com/problems/two-sum/)   | [Python solution](Array/python/two-sum.py)  |  Array
 [Maximum Subarray](https://leetcode.com/problems/two-sum/)   | [Python solution](Array/python/maximum-subarray.py)  |  Array
 [Find the Duplicate Number](https://leetcode.com/problems/find-the-duplicate-number/)   | [Javascript solution](Array/javascript/find-the-duplicate-number.js)  |  Array
+
+
+
+**🔥 Learning **
+        Problems         |  Solution  |    Type
+------------------------ |  --------  |  --------  
+[Create Dataframe](https://leetcode.com/problems/create-a-dataframe-from-list/)   | [Python solution](Learning/Pandas/create-a-dataframe-from-list.py)  |  Pandas
