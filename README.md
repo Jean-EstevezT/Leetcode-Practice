@@ -80,3 +80,5 @@
         Problems         |  Solution  |    Type
 ------------------------ |  --------  |  --------  
 [Create Dataframe](https://leetcode.com/problems/create-a-dataframe-from-list/)   | [Python solution](Learning/Pandas/create-a-dataframe-from-list.py)  |  Pandas
+[Get the size of a Dataframe](https://leetcode.com/problems/get-the-size-of-a-dataframe/)   | [Python solution](Learning/Pandas/get-the-size-of-a-dataframe.py)  |  Pandas
+[Display the first three rows](https://leetcode.com/problems/display-the-first-three-rows/)   | [Python solution](Learning/Pandas/display-the-first-three-rows.py)  |  Pandas
