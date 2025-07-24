@@ -27,6 +27,7 @@
 [Sort Colors](https://leetcode.com/problems/sort-colors)   | [Javascript solution](Array/javascript/sort-colors.js)
 [Sort Array by Increasing Frequency](https://leetcode.com/problems/sort-array-by-increasing-frequency/)   | [Python solution](Array/python/sort-array-by-increasing-frequency.py)
 [Count Items Matching a Rule](https://leetcode.com/problems/count-items-matching-a-rule/)   | [Python solution](Array/python/count-items-matching-a-rule.py)
+[Maximum Erasure Value](https://leetcode.com/problems/maximum-erasure-value/)   | [Python solution](Array/python/maximum-erasure-value.py)
 
 
 **Linked List**
