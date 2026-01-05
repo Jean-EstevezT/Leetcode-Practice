@@ -64,6 +64,7 @@
 [To lower case](https://leetcode.com/problems/to-lower-case/)   | [Python solution](String/python/to-lower-case.py)
 [Detect Capital](https://leetcode.com/problems/detect-capital/)   | [Javascript solution](String/javascript/detect-capital.js)
 [Delete Characters to Make Fancy String](https://leetcode.com/problems/delete-characters-to-make-fancy-string/)   | [Python solution](String/python/delete-characters-to-make-fancy-string.py)
+[Merge Strings Alternately](https://leetcode.com/problems/merge-strings-alternately/)   | [Python solution](String/python/merge-strings-alternately.py)
 
 
 **🔥 Top 100 Liked Questions**
