@@ -8,7 +8,6 @@ class Solution:
                 new += word2[i]
         return new
 
-
 if __name__ == "__main__":
     sol = Solution()
     # Example 1
